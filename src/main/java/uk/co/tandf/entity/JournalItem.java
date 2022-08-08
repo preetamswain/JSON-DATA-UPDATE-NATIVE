@@ -17,4 +17,7 @@ public class JournalItem {
     private String issue_type;
     private Integer issue_start_int;
     private Integer issue_end_int;
+
+    private String [] volumeNumbers;
+    private String [] issueNumbers;
 }

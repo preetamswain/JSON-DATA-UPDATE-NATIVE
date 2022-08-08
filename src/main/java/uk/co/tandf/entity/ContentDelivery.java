@@ -16,9 +16,5 @@ public class ContentDelivery {
     private String origin_id;
     private String delivery_state;
     private Long bytes_delivered;
-
-    private String [] volumeNumbers;
-    private String [] issueNumbers;
-    private String [] internationalStandardNumbers;
     public boolean realDelivery;
 }

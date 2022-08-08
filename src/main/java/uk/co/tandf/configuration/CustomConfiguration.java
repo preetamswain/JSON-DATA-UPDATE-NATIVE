@@ -25,7 +25,7 @@ public class CustomConfiguration {
             }
         }
         String[] strings = nonEmptyStandardNumbers.toArray(new String[nonEmptyStandardNumbers.size()]);
-        System.out.println("---int numbers :"+ Arrays.toString(strings));
+        //System.out.println("---int numbers :"+ Arrays.toString(strings));
         return strings;
     }
 
